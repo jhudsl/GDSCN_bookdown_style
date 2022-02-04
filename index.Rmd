@@ -8,6 +8,10 @@ biblio-style: apalike
 link-citations: yes
 description: "Description about Course/Book."
 favicon: assets/gdscn_favicon.ico
+output:
+    bookdown::word_document2:
+      reference_docx: assets/gdscn-template.docx
+      toc: true
 ---
 
 
