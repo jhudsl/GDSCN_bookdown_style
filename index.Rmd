@@ -20,5 +20,7 @@ knitr::write_bib(c(
 
 # About this Book {-}
 
-This book is part of a series of books for the Genomic Data Science Analysis, Visualization, and Informatics Lab-space (AnVIL) of the National Human Genome Research Institute (NHGRI). Learn more about AnVIL by visiting `https://anvilproject.org` or reading the [preprint](https://www.biorxiv.org/content/10.1101/2021.04.22.436044v1).
+This book is part of a series of classroom exercises developed by the Genomic Data Science Community Network (GDSCN).  GDSCN works towards a vision where researchers, educators, and students from diverse backgrounds are able to fully participate in genomic data science research.  As part of this, we are developing modular genomic lab exercises designed to introduce students to the field, enable them to investigate relevant questions, and provide them with tangible skills which they can reuse and build upon.
+
+Learn more about GDSCN by visiting [`https://www.gdscn.org`](https://www.gdscn.org) or reading the [preprint](https://arxiv.org/abs/2201.08443).  For more genomic data science lab modules, check out the page of [GDSCN courses](https://www.gdscn.org/curricula/courses).
 
