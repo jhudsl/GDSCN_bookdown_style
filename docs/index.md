@@ -1,6 +1,6 @@
 ---
 title: "GDSCN Book Name "
-date: "February 04, 2022"
+date: "February 08, 2022"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
@@ -8,6 +8,10 @@ biblio-style: apalike
 link-citations: yes
 description: "Description about Course/Book."
 favicon: assets/gdscn_favicon.ico
+output:
+    bookdown::word_document2:
+      reference_docx: assets/gdscn-template.docx
+      toc: true
 ---
 
 
